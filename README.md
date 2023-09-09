@@ -1,5 +1,5 @@
-### Hi there 👋<h1 align="center">Hi 👋, I'm Lewis Omogi</h1>
-<h3 align="center">A passionate Backend developer from Kenya</h3>
+ <h1 align="center">Hi 👋, I'm Lewis Omogi🤟</h1>
+<h3 align="center">A passionate Backend developer from Kenya❤️</h3>
 <img align="right"alt="coding"width="400"src="programmer+cartoon">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lewisomogi01&label=Profile%20views&color=0e75b6&style=flat" alt="lewisomogi01" /> </p>
