@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewisomogi01" alt="lewisomogi01" /></a> </p>
 
-- 🌱 I’m currently learning **C++11 C++14 C++17**
+- 🌱 I’m currently learning **C++20 Django and web development**
 
-- 💬 Ask me about **modern C++ & Web development**
+- 💬 Ask me about **modern C++, Django & Web development**
 
 - 📫 How to reach me **lewisomogi01@gmail.com**
 
