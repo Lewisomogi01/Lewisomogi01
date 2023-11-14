@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Lewis Omogi🤟</h1>
 <h3 align="center">A passionate Backend developer from Kenya❤️</h3>
-<img src="https://www.shutterstock.com/image-vector/hacker-operating-laptop-cartoon-vector-260nw-1869057103.jpg" alt="code comrade" width="80" height="80">
+<img src="https://www.shutterstock.com/image-vector/hacker-operating-laptop-cartoon-vector-260nw-1869057103.jpg" alt="code comrade" width="100" height="100">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lewisomogi01&label=Profile%20views&color=0e75b6&style=flat" alt="lewisomogi01" /> </p>
 
