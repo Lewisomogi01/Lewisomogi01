@@ -1,4 +1,8 @@
-<body style="background-image:url(https://i.postimg.cc/GmZdx1P8/wp3082255-github-wallpapers.jpg); font-color:white; ">
+<!-- Add a background image to your GitHub README -->
+<div style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSArq3sPy-gLCfEinDZJg90AcAjYJ5nJxNYeny2Cq-JVp1eTyWttSbeTVKI8bE6Vpg--5I&usqp=CAU'); background-size: cover; padding: 100px; text-align: center;">
+
+
+
  <h1 align="center">Hi 👋, I'm Lewis Omogi🤟</h1>
 <h3 align="center">A passionate Backend developer from Kenya❤️</h3>
 <img src="https://www.shutterstock.com/image-vector/hacker-operating-laptop-cartoon-vector-260nw-1869057103.jpg" alt="code comrade" width="300" height="300">
@@ -31,7 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewisomogi01&" alt="lewisomogi01" /></p>
 
-</body>
+</div>>
 
 
 	
